@@ -19,7 +19,7 @@ https://docs.google.com/spreadsheets/d/1DHt-Heaq4LEsYY2Zsqja-FOUxmAdihVSTALjsMUk
 https://docs.google.com/spreadsheets/d/1FFp4LiOyMTeyjpA1cXILMKv3OCY-A48XecPQvCL3NWA/edit?usp=sharing
 
 # API Collenction
-https://api.postman.com/collections/31249969-bbe40b5c-defa-41ce-afe0-debcdc43bf71?access_key=PMAT-01JDY6DDX6XWTVMN58125Z273Y
+https://documenter.getpostman.com/view/31249969/2sAYBYeV1E
 
 # Newman Report
 ![image](https://github.com/user-attachments/assets/3a695392-1aec-4534-a02a-d784fd085a5c)
